@@ -1,0 +1,36 @@
+CRITICAL - 2022-04-07 18:59:55 --> Invalid file: principal.html
+#0 C:\xampp\htdocs\proyecto\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('principal.html')
+#1 C:\xampp\htdocs\proyecto\system\Common.php(1089): CodeIgniter\View\View->render('principal.html', Array, true)
+#2 C:\xampp\htdocs\proyecto\app\Controllers\Home.php(9): view('principal.html')
+#3 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\proyecto\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 19:00:02 --> Invalid file: principal.html
+#0 C:\xampp\htdocs\proyecto\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('principal.html')
+#1 C:\xampp\htdocs\proyecto\system\Common.php(1089): CodeIgniter\View\View->render('principal.html', Array, true)
+#2 C:\xampp\htdocs\proyecto\app\Controllers\Home.php(9): view('principal.html')
+#3 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\proyecto\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 19:21:44 --> Invalid file: principal.html
+#0 C:\xampp\htdocs\proyecto\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('principal.html')
+#1 C:\xampp\htdocs\proyecto\system\Common.php(1089): CodeIgniter\View\View->render('principal.html', Array, true)
+#2 C:\xampp\htdocs\proyecto\app\Controllers\Home.php(9): view('principal.html')
+#3 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\proyecto\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 19:22:26 --> Invalid file: principal.html
+#0 C:\xampp\htdocs\proyecto\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('principal.html')
+#1 C:\xampp\htdocs\proyecto\system\Common.php(1089): CodeIgniter\View\View->render('principal.html', Array, true)
+#2 C:\xampp\htdocs\proyecto\app\Controllers\Home.php(9): view('principal.html')
+#3 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\proyecto\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

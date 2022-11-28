@@ -1,0 +1,1232 @@
+CRITICAL - 2022-06-03 13:35:22 --> syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-03 13:40:04 --> syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-03 13:40:06 --> syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-03 13:40:07 --> syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-03 13:41:17 --> syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-03 13:41:45 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 13:42:39 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 13:52:50 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 13:52:56 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 13:54:16 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 13:57:00 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 13:57:02 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 13:57:02 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 13:59:46 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:02:36 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:02:38 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:03:00 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:03:09 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:03:49 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:06:17 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:06:20 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:06:23 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:06:57 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:07:08 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:08:06 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:09:03 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:09:06 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:10:42 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:10:57 --> syntax error, unexpected '$userModel' (T_VARIABLE)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:11:29 --> syntax error, unexpected '$userModel' (T_VARIABLE)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:11:30 --> syntax error, unexpected '$userModel' (T_VARIABLE)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:12:30 --> Call to undefined function form_open_multipart()
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 14:38:20 --> Invalid file: back/usuario/usuario_crud_nuevo.php
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/us...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:38:45 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:38:58 --> Invalid file: back/usuario/usuario_crud_nuevo.php
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/us...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:47:54 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:49:18 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:49:21 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:49:37 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'user-list', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('user-list')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user-list')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:49:42 --> Invalid file: back/usuario/usuario_crud_nuevo.php
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/us...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:49:46 --> Invalid file: back/usuario/usuario_crud_nuevo.php
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/us...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:54:14 --> Invalid file: back/usuario/usuario_crud_nuevo.php
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/us...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:54:18 --> Invalid file: back/usuario/usuario_crud_nuevo.php
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/us...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:55:17 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:57:27 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:57:32 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 14:58:20 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:02:34 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:09:36 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'index.css', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('index.css')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('index.css')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:09:37 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'index.js', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('index.js')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('index.js')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:09:37 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:13:53 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'index.js', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('index.js')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('index.js')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:13:53 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'index.css', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('index.css')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('index.css')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:13:54 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:14:22 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'index.js', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('index.js')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('index.js')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:14:22 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:14:30 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:14:36 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'index.js', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('index.js')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('index.js')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:14:36 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:15:05 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'index.js', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('index.js')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('index.js')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:15:06 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:19:00 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'index.js', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('index.js')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('index.js')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 15:19:00 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:11:43 --> Undefined variable: usuarios
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 19:12:33 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:12:42 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:12:45 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:12:53 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:13:02 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:13:15 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:13:18 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:13:31 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:13:35 --> Undefined variable: usuarios
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 19:14:46 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:15:16 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:15:18 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:36:16 --> syntax error, unexpected 'if' (T_IF)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 19:37:23 --> Undefined variable: usuarios
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 19:37:44 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 19:39:24 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 19:39:28 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 20:04:09 --> Call to a member function result_array() on array
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 20:15:11 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 20:15:33 --> syntax error, unexpected '$users' (T_VARIABLE), expecting '('
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 20:17:16 --> Call to a member function result() on array
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-03 20:23:30 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 20:24:39 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 20:25:19 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 20:48:45 --> Undefined variable: row
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 20:50:16 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 20:52:38 --> Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 20:55:16 --> Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 20:55:19 --> Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:11:24 --> Undefined variable: datos
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-03 21:11:43 --> Undefined variable: users
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:12:10 --> Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:18:46 --> Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:22:24 --> Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:24:40 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:34:42 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:36:07 --> Trying to get property 'nombre' of non-object
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:37:42 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 21:41:21 --> Trying to get property 'nombre' of non-object
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:42:27 --> Trying to get property 'nombre' of non-object
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:42:38 --> Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 21:43:07 --> Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 22:15:29 --> Undefined variable: mysqli
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 22:21:24 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:26:48 --> Undefined variable: row
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\usuario\usuario_crud_view.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 50, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-03 22:28:50 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:31:13 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:32:09 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:32:53 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:35:25 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:35:28 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:35:31 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:36:00 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:38:12 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:38:51 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:39:44 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:39:47 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:41:20 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:41:23 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:44:39 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:50:38 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:51:17 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:52:52 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:54:05 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:54:08 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:54:43 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:55:40 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/us...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_crud_controller.php(13): view('back/usuario/us...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_crud_controller->index()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_crud_controller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 22:56:05 --> preg_match(): Compilation failed: missing closing parenthesis at offset 19
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^edit-view/([0...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-03 23:54:46 --> preg_match(): Compilation failed: missing closing parenthesis at offset 16
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(384): preg_match('#^editar/([0-9]...', 'public/js/poope...', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('public/js/poope...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('public/js/poope...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

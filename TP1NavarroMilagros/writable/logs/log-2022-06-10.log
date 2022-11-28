@@ -1,0 +1,26 @@
+CRITICAL - 2022-06-10 19:43:41 --> Invalid file: back/usuario/modificaproducto.php
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/mo...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/mo...', Array, true)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Productocontroller.php(68): view('back/usuario/mo...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Productocontroller->singleProducto('9')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Productocontroller))
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-10 19:55:52 --> Undefined variable: userModel
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Productocontroller.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 99, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Productocontroller->deleteproducto('9')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Productocontroller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-10 23:33:16 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

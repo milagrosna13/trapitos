@@ -1,0 +1,370 @@
+CRITICAL - 2022-06-16 00:00:05 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 00:00:06 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(55): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 00:00:28 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(57): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 00:00:29 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(57): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 00:00:34 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(57): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 00:01:04 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 00:01:06 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 00:01:43 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 00:01:54 --> Trying to get property 'request' of non-object
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-16 00:02:21 --> Trying to get property 'request' of non-object
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-16 00:03:04 --> Call to a member function getVAR() on array
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-16 00:06:06 --> Undefined variable: datos_vdetalle
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-16 00:07:11 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 00:07:38 --> Argument 1 passed to CodeIgniter\Database\BaseResult::getRowArray() must be of the type int, string given, called in C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php on line 38
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(38): CodeIgniter\Database\BaseResult->getRowArray('id_cabeza')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-16 00:19:56 --> syntax error, unexpected 'protected' (T_PROTECTED)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 17:51:03 --> Class 'App\Controllers\Consultas_models' not found
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(809): App\Controllers\Consulta_controller->__construct()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-16 17:51:42 --> Class 'App\Models\Consulta_model' not found
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(809): App\Controllers\Consulta_controller->__construct()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-16 17:52:08 --> Class 'App\Models\Consulta_model' not found
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(809): App\Controllers\Consulta_controller->__construct()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-16 17:54:24 --> Class 'App\Models\consulta_model' not found
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Consulta_controller->ver_consulta()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Consulta_controller))
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-16 18:51:22 --> Column 'id' cannot be null
+CRITICAL - 2022-06-16 18:51:22 --> Column 'id' cannot be null
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `co...', 0)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\consulta_controller.php(35): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Consulta_controller->agregar_consulta()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Consulta_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-16 18:54:15 --> syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 18:54:52 --> Undefined variable: consulta_model
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Usuario_controller.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 59, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Usuario_controller->dashboard()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-16 18:55:58 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-06-16 18:55:58 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `co...', 0)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\consulta_controller.php(34): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Consulta_controller->agregar_consulta()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Consulta_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-16 18:58:49 --> Undefined variable: data
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\consulta_controller.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Consulta_controller->agregar_consulta()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Consulta_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-16 20:23:35 --> Undefined variable: userModel
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\consulta_controller.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 60, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Consulta_controller->contestar_consulta()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Consulta_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-16 21:55:22 --> syntax error, unexpected 'protected' (T_PROTECTED)
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 21:55:46 --> Argument 1 passed to CodeIgniter\Database\BaseResult::getRowArray() must be of the type int, string given, called in C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php on line 39
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(39): CodeIgniter\Database\BaseResult->getRowArray('id_cabeza')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-16 21:59:59 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 22:00:41 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(57): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-16 23:49:50 --> Unknown column 'id_cabeza_venta' in 'field list'
+CRITICAL - 2022-06-16 23:49:50 --> Unknown column 'id_cabeza_venta' in 'field list'
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT id_cabez...', 0)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id_cabez...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id_cabez...')
+#3 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(25): CodeIgniter\Database\BaseConnection->query('SELECT id_cabez...')
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-16 23:57:38 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(57): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 23:58:00 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(57): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 23:58:04 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(57): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 23:58:50 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(57): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 23:59:03 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(56): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 23:59:06 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(56): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-16 23:59:28 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 312, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(312): implode(',', Array)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `ve...', Array)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#6 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\venta_controller.php(56): CodeIgniter\Database\BaseBuilder->insert(Array)
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\venta_controller->comprar()
+#8 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

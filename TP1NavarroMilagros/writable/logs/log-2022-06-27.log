@@ -1,0 +1,101 @@
+ERROR - 2022-06-27 13:53:50 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+CRITICAL - 2022-06-27 13:53:50 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\login_controller.php(23): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\login_controller->auth()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 13:54:34 --> Undefined variable: producto
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\carrito_controller.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 60, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Carrito_controller->add()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-27 13:55:20 --> Undefined variable: item
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\carrito_controller.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 61, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Carrito_controller->add()
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-27 13:59:35 --> Cannot use object of type CodeIgniterCart\Cart as array
+#0 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Carrito_controller->add()
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-27 17:10:57 --> Undefined variable: id
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\front\navbar.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('front/navbar', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Panel_controller.php(12): view('front/navbar')
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Panel_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 17:11:45 --> Undefined variable: i
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\front\navbar.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('front/navbar', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Panel_controller.php(12): view('front/navbar')
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Panel_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 17:11:56 --> Array to string conversion
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\front\navbar.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 78, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('front/navbar', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Panel_controller.php(12): view('front/navbar')
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Panel_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 17:13:09 --> Undefined variable: usuario_id
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\front\navbar.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('front/navbar', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Panel_controller.php(12): view('front/navbar')
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Panel_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 17:13:11 --> Undefined variable: usuario_id
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\front\navbar.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('front/navbar', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Panel_controller.php(12): view('front/navbar')
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Panel_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-27 17:13:27 --> Undefined variable: builder
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\front\navbar.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('front/navbar', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Panel_controller.php(12): view('front/navbar')
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Panel_controller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

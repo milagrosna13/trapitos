@@ -1,0 +1,56 @@
+#animal{
+   
+    background: linear-gradient(0deg, rgba(205,220,57,0.7) 0%, rgba(0,150,136,0.7) 57%);
+    background-repeat: repeat-x;
+    background-size: 75%;
+  
+}
+.profile-card-4 {
+    border: solid 5px lightblue;
+    max-width: 300px;
+    background-color: lightblue;
+    border-radius: 20px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    cursor: pointer;
+    transition: all ease-out 0.2s;
+
+}
+.profile-card-4:hover{
+    transform: scale(1.05);   
+}
+.card-img{
+    grid-column: 1/10;
+    position: relative;
+}
+.card-border{
+    border: solid 10px white;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+
+}
+.card-border:hover{
+    transform: scale(1.05);   
+}
+.centrado {
+  text-align: center;
+}
+
+.pading{
+  border: 1px solid red; 
+  padding-left: 50px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+footer{
+    margin-top: auto;
+}
+.izquierda{
+    float:left;
+}

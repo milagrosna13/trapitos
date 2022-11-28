@@ -1,0 +1,11 @@
+CRITICAL - 2022-06-09 00:05:00 --> Undefined variable: imagen
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\productos\producto_nuevo_view.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 36, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/productos/...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\Productocontroller.php(13): view('back/productos/...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Productocontroller->index()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Productocontroller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

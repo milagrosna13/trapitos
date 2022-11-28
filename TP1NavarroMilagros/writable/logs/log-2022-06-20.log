@@ -1,0 +1,44 @@
+CRITICAL - 2022-06-20 19:02:24 --> Undefined index: precio_venta
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\carrito\productos_catalogo_view.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 52, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/pr...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\carrito_controller.php(32): view('back/carrito/pr...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Carrito_controller->catalogo()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-20 19:03:03 --> Undefined index: precio_venta
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\carrito\productos_catalogo_view.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/pr...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\carrito_controller.php(32): view('back/carrito/pr...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Carrito_controller->catalogo()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-20 19:03:20 --> Undefined index: nombre
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\carrito\productos_catalogo_view.php(76): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 76, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/pr...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\carrito_controller.php(32): view('back/carrito/pr...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Carrito_controller->catalogo()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-20 19:18:41 --> Undefined index: precio_venta
+#0 C:\xampp\htdocs\TP1NavarroMilagros\app\Views\back\carrito\productos_catalogo_view.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 52, Array)
+#1 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\TP1NavarroMilagros\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\TP1NavarroMilagros\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/pr...', Array, true)
+#4 C:\xampp\htdocs\TP1NavarroMilagros\app\Controllers\carrito_controller.php(32): view('back/carrito/pr...', Array)
+#5 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(832): App\Controllers\Carrito_controller->catalogo()
+#6 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+#7 C:\xampp\htdocs\TP1NavarroMilagros\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\TP1NavarroMilagros\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
